@@ -1,0 +1,57 @@
+C:\Users\Taller\source\repos\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Taller\source\repos\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.AssemblyInfoInputs.cache
+C:\Users\Taller\source\repos\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.AssemblyInfo.cs
+C:\Users\Taller\source\repos\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Views.dll
+C:\Users\Taller\source\repos\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Views.pdb
+C:\Users\Taller\source\repos\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Taller\source\repos\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Taller\source\repos\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Taller\source\repos\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Tests.deps.json
+C:\Users\Taller\source\repos\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Tests.runtimeconfig.json
+C:\Users\Taller\source\repos\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Tests.runtimeconfig.dev.json
+C:\Users\Taller\source\repos\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Tests.dll
+C:\Users\Taller\source\repos\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Tests.pdb
+C:\Users\Taller\source\repos\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.dll
+C:\Users\Taller\source\repos\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.pdb
+C:\Users\Taller\source\repos\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.csprojAssemblyReference.cache
+C:\Users\Taller\source\repos\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.csproj.CopyComplete
+C:\Users\Taller\source\repos\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.dll
+C:\Users\Taller\source\repos\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.pdb
+C:\Users\PC134\Downloads\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.csprojAssemblyReference.cache
+C:\Users\PC134\Downloads\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.csproj.CoreCompileInputs.cache
+C:\Users\PC134\Downloads\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.AssemblyInfoInputs.cache
+C:\Users\PC134\Downloads\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.AssemblyInfo.cs
+C:\Users\PC134\Downloads\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.dll
+C:\Users\PC134\Downloads\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.pdb
+C:\Users\PC134\Downloads\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\PC134\Downloads\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\PC134\Downloads\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\PC134\Downloads\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Views.dll
+C:\Users\PC134\Downloads\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Views.pdb
+C:\Users\PC134\Downloads\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Tests.deps.json
+C:\Users\PC134\Downloads\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Tests.runtimeconfig.json
+C:\Users\PC134\Downloads\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Tests.runtimeconfig.dev.json
+C:\Users\PC134\Downloads\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Tests.dll
+C:\Users\PC134\Downloads\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Tests.pdb
+C:\Users\PC134\Downloads\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.dll
+C:\Users\PC134\Downloads\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.pdb
+C:\Users\PC134\Downloads\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.csproj.CopyComplete
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Views.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Views.pdb
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Tests.deps.json
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Tests.runtimeconfig.json
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Tests.runtimeconfig.dev.json
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Tests.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.Tests.pdb
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\bin\Debug\netcoreapp2.2\Demo.pdb
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.csprojAssemblyReference.cache
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.AssemblyInfoInputs.cache
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.AssemblyInfo.cs
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.csproj.CopyComplete
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\Demo\Demo.Tests\obj\Debug\netcoreapp2.2\Demo.Tests.pdb

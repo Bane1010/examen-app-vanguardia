@@ -1,0 +1,38 @@
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.Views.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.Views.pdb
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.Tests.deps.json
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.Tests.runtimeconfig.json
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.Tests.runtimeconfig.dev.json
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.Tests.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.Tests.pdb
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.pdb
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\obj\Debug\netcoreapp2.2\Calculadora.Tests.csprojAssemblyReference.cache
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\obj\Debug\netcoreapp2.2\Calculadora.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\obj\Debug\netcoreapp2.2\Calculadora.Tests.AssemblyInfoInputs.cache
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\obj\Debug\netcoreapp2.2\Calculadora.Tests.AssemblyInfo.cs
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\obj\Debug\netcoreapp2.2\Calculadora.Tests.csproj.CopyComplete
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\obj\Debug\netcoreapp2.2\Calculadora.Tests.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\App de Vanguardia\calculadora-examen\Calculadora\Demo.Tests\obj\Debug\netcoreapp2.2\Calculadora.Tests.pdb
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\obj\Debug\netcoreapp2.2\Calculadora.Tests.csprojAssemblyReference.cache
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\obj\Debug\netcoreapp2.2\Calculadora.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\obj\Debug\netcoreapp2.2\Calculadora.Tests.AssemblyInfoInputs.cache
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\obj\Debug\netcoreapp2.2\Calculadora.Tests.AssemblyInfo.cs
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\obj\Debug\netcoreapp2.2\Calculadora.Tests.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\obj\Debug\netcoreapp2.2\Calculadora.Tests.pdb
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.Views.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.Views.pdb
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.Tests.deps.json
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.Tests.runtimeconfig.json
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.Tests.runtimeconfig.dev.json
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.Tests.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.Tests.pdb
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.dll
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\bin\Debug\netcoreapp2.2\Calculadora.pdb
+C:\Users\Paul Bane MAC\Desktop\Ceutec\github\Calculadora\Demo.Tests\obj\Debug\netcoreapp2.2\Calculadora.Tests.csproj.CopyComplete
